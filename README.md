@@ -2,7 +2,7 @@
 
 <img src="https://static.kaeducation.com/lc-js-classic.jpg" width="400">
 
-This is the course code for the classic edition of [JavaScript & LeetCode: The Interview Bootcamp](https://www.udemy.com/course/ultimate-javascript-leetcode-interview-bootcamp/?referralCode=6B683FD41E9DEDE9FF4C).
+This is the course code for the classic edition of [JavaScript & LeetCode: The Interview Bootcamp](https://amzn.to/3M4HbrG).
 
 ## Prerequisites
 * [Node.js/npm](https://nodejs.org/en/)
